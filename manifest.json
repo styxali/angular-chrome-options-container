@@ -17,6 +17,6 @@
   "permissions": [
     "storage"
   ],
-  "options_page": "bower_components/angular-chrome-options/app/index.html",
+  "options_page": "bower_components/angular-chrome-options/index.html",
   "web_accessible_resources": ["icons/icon38.png"]
 }
