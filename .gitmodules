@@ -1,0 +1,3 @@
+[submodule "bower_components/angular-chrome-options"]
+	path = bower_components/angular-chrome-options
+	url = git@github.com:nverba/angular-chrome-options.git
