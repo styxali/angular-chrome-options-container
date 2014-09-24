@@ -7,9 +7,9 @@ var karmaCommonConf = {
   frameworks: ['mocha', 'chai', 'chai-as-promised', 'sinon-chai'],
   autoWatch: true,
   files: [
-    '../angular/angular.js',
-    '../angular-mocks/angular-mocks.js',
-    'app/*.js',
+    'node_modules/angular/lib/angular.js',
+    'node_modules/angular-mocks/angular-mocks.js',
+    'bower_components/angular-chrome-options/*.js',
     'tests/**/*.js'
   ],
   client: {
