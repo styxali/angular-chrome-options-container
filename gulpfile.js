@@ -10,7 +10,9 @@ var karmaCommonConf = {
     'node_modules/angular/lib/angular.js',
     'node_modules/angular-mocks/angular-mocks.js',
     'bower_components/angular-chrome-options/*.js',
-    'tests/**/*.js'
+    'tests/test-modules/data.js',
+    'tests/test-modules/chrome-storage-api.js',
+    'tests/*.js'
   ],
   client: {
     mocha: {
